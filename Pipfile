@@ -11,6 +11,8 @@ scipy = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
+rise = "*"
+hide-code = "*"
 
 [requires]
 python_version = "3.6"
