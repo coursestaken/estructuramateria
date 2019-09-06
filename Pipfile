@@ -13,6 +13,7 @@ seaborn = "*"
 jupyter = "*"
 rise = "*"
 hide-code = "*"
+sympy = "*"
 
 [requires]
 python_version = "3.6"
