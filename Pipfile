@@ -16,6 +16,7 @@ hide-code = "*"
 sympy = "*"
 jupyter-contrib-nbextensions = "*"
 jupyter-nbextensions-configurator = "*"
+plotly = "==3.10.0"
 
 [requires]
 python_version = "3.6"
