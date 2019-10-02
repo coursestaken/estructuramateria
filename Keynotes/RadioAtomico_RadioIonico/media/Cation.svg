@@ -8,74 +8,74 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="586.7489"
-   height="324.43088"
-   viewBox="0 0 155.24398 85.839005"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="Cation.svg"
    inkscape:version="1.0beta1 (58d3a45bae, 2019-10-02)"
-   sodipodi:docname="Cation.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 155.24398 85.839005"
+   height="324.43088"
+   width="586.7489">
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient863"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient863">
       <stop
-         id="stop859"
+         style="stop-color:#6c5353;stop-opacity:1;"
          offset="0"
-         style="stop-color:#6c5353;stop-opacity:1;" />
+         id="stop859" />
       <stop
-         id="stop861"
+         style="stop-color:#6c5353;stop-opacity:0;"
          offset="1"
-         style="stop-color:#6c5353;stop-opacity:0;" />
+         id="stop861" />
     </linearGradient>
     <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4598816,1.8779666,-2.1420583,1.6651797,80.956886,-97.38597)"
-       r="33.132252"
-       fy="45.47266"
-       fx="35.766178"
-       cy="45.47266"
-       cx="35.766178"
+       inkscape:collect="always"
+       xlink:href="#linearGradient863"
        id="radialGradient865"
-       xlink:href="#linearGradient863"
-       inkscape:collect="always" />
-    <radialGradient
-       r="33.132252"
-       fy="45.47266"
-       fx="35.766178"
-       cy="45.47266"
        cx="35.766178"
-       gradientTransform="matrix(1.0577003,1.3606075,-1.5519448,1.206441,170.06133,-53.537436)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient869"
+       cy="45.47266"
+       fx="35.766178"
+       fy="45.47266"
+       r="33.132252"
+       gradientTransform="matrix(1.4598816,1.8779666,-2.1420583,1.6651797,80.956886,-97.38597)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient863"
-       inkscape:collect="always" />
+       id="radialGradient869"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0577003,1.3606075,-1.5519448,1.206441,170.06133,-53.537436)"
+       cx="35.766178"
+       cy="45.47266"
+       fx="35.766178"
+       fy="45.47266"
+       r="33.132252" />
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="334.39111"
-     inkscape:cy="309.80539"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1145"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
+     fit-margin-bottom="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-left="0"
+     fit-margin-top="0"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1145"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="191.72356"
+     inkscape:cx="359.12243"
+     inkscape:zoom="1.979899"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -84,52 +84,78 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(-15.146004,-9.0141209)"
      id="layer1"
-     transform="translate(-15.146004,-9.0141209)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <ellipse
-       rx="24.004681"
-       ry="23.961693"
-       style="opacity:1;fill:url(#radialGradient869);fill-opacity:1;stroke:none;stroke-width:0.215103;stop-opacity:1"
-       id="ellipse867"
-       cx="146.3853"
-       cy="61.780209" />
-    <ellipse
-       ry="33.072918"
-       rx="33.132252"
        cy="61.780209"
-       cx="48.278255"
+       cx="146.3853"
+       id="ellipse867"
+       style="opacity:1;fill:url(#radialGradient869);fill-opacity:1;stroke:none;stroke-width:0.215103;stop-opacity:1"
+       ry="23.961693"
+       rx="24.004681" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient865);fill-opacity:1;stroke:none;stroke-width:0.296894;stop-opacity:1"
        id="path830"
-       style="opacity:1;fill:url(#radialGradient865);fill-opacity:1;stroke:none;stroke-width:0.296894;stop-opacity:1" />
+       cx="48.278255"
+       cy="61.780209"
+       rx="33.132252"
+       ry="33.072918" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;stroke-width:0.264583;stop-opacity:1"
+       id="text857"
+       y="16.76091"
        x="42.26572"
-       y="16.76091"
-       id="text857"><tspan
-         sodipodi:role="line"
-         id="tspan855"
-         x="42.26572"
-         y="16.76091"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Na</tspan></text>
-    <text
-       id="text861"
-       y="16.76091"
-       x="139.45061"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;stroke-width:0.264583;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          y="16.76091"
-         x="139.45061"
+         x="42.26572"
+         id="tspan855"
+         sodipodi:role="line">Na</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;stroke-width:0.264583;stop-opacity:1"
+       x="139.45061"
+       y="16.76091"
+       id="text861"><tspan
+         sodipodi:role="line"
          id="tspan859"
-         sodipodi:role="line">Na<tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan863">+</tspan></tspan></text>
+         x="139.45061"
+         y="16.76091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Na<tspan
+   id="tspan863"
+   style="font-size:65%;baseline-shift:super">+</tspan></tspan></text>
+    <text
+       id="text844"
+       y="26.11236"
+       x="38.2724"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#0066ff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0066ff;stroke-width:0.264583"
+         y="26.11236"
+         x="38.2724"
+         id="tspan842"
+         sodipodi:role="line">Z<tspan
+   id="tspan848"
+   style="font-size:65%;baseline-shift:super;fill:#0066ff">*</tspan>= 2.507</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#0066ff;stroke-width:0.264583"
+       x="135.07332"
+       y="26.11236"
+       id="text860"><tspan
+         sodipodi:role="line"
+         id="tspan858"
+         x="135.07332"
+         y="26.11236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0066ff;stroke-width:0.264583">Z<tspan
+   style="font-size:65%;baseline-shift:super;fill:#0066ff"
+   id="tspan856">*</tspan>= 6.7583</tspan></text>
   </g>
 </svg>
