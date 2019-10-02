@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="586.7489"
+   height="324.43088"
+   viewBox="0 0 155.24398 85.839005"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta1 (58d3a45bae, 2019-10-02)"
+   sodipodi:docname="Cation.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient863"
+       inkscape:collect="always">
+      <stop
+         id="stop859"
+         offset="0"
+         style="stop-color:#6c5353;stop-opacity:1;" />
+      <stop
+         id="stop861"
+         offset="1"
+         style="stop-color:#6c5353;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4598816,1.8779666,-2.1420583,1.6651797,80.956886,-97.38597)"
+       r="33.132252"
+       fy="45.47266"
+       fx="35.766178"
+       cy="45.47266"
+       cx="35.766178"
+       id="radialGradient865"
+       xlink:href="#linearGradient863"
+       inkscape:collect="always" />
+    <radialGradient
+       r="33.132252"
+       fy="45.47266"
+       fx="35.766178"
+       cy="45.47266"
+       cx="35.766178"
+       gradientTransform="matrix(1.0577003,1.3606075,-1.5519448,1.206441,170.06133,-53.537436)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient869"
+       xlink:href="#linearGradient863"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="334.39111"
+     inkscape:cy="309.80539"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.146004,-9.0141209)">
+    <ellipse
+       rx="24.004681"
+       ry="23.961693"
+       style="opacity:1;fill:url(#radialGradient869);fill-opacity:1;stroke:none;stroke-width:0.215103;stop-opacity:1"
+       id="ellipse867"
+       cx="146.3853"
+       cy="61.780209" />
+    <ellipse
+       ry="33.072918"
+       rx="33.132252"
+       cy="61.780209"
+       cx="48.278255"
+       id="path830"
+       style="opacity:1;fill:url(#radialGradient865);fill-opacity:1;stroke:none;stroke-width:0.296894;stop-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;stroke-width:0.264583;stop-opacity:1"
+       x="42.26572"
+       y="16.76091"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="42.26572"
+         y="16.76091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Na</tspan></text>
+    <text
+       id="text861"
+       y="16.76091"
+       x="139.45061"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;stroke-width:0.264583;stop-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Calibri;-inkscape-font-specification:'Calibri Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="16.76091"
+         x="139.45061"
+         id="tspan859"
+         sodipodi:role="line">Na<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan863">+</tspan></tspan></text>
+  </g>
+</svg>
