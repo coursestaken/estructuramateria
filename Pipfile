@@ -17,6 +17,7 @@ sympy = "*"
 jupyter-contrib-nbextensions = "*"
 jupyter-nbextensions-configurator = "*"
 plotly = "==3.10.0"
+tabulate = "*"
 
 [requires]
 python_version = "3.6"

@@ -1,0 +1,109 @@
+%--------------------------------------------------
+% REQUIRED PACKAGES AND CONFIGURATIONS
+%--------------------------------------------------
+\documentclass{article}
+\usepackage[12pt]{extsizes}
+
+\usepackage{graphicx}
+\usepackage{caption}
+
+\usepackage{gensymb}
+\usepackage{amsmath}
+
+\usepackage{enumitem} % Customize lists
+
+\usepackage{booktabs} % Required for nicer horizontal rules in tables
+
+\usepackage{amsmath}
+\usepackage{siunitx}
+
+\usepackage[spanish]{babel} % Spanish language/hyphenation
+\decimalpoint
+
+%--------------------------------------------------
+% MARGINS
+%--------------------------------------------------
+
+\usepackage{geometry} % Required for adjusting page dimensions and margins
+
+\geometry{
+	paper=letterpaper, % Paper size, change to letterpaper for US letter size (a4paper)
+	top=1.5cm, % Top margin
+	bottom=1.5cm, % Bottom margin
+	left=2.5cm, % Left margin
+	right=2.5cm, % Right margin
+	headheight=14pt, % Header height
+	footskip=0.7cm, % Space from the bottom margin to the baseline of the footer
+	headsep=10pt, % Space from the top margin to the baseline of the header
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+%--------------------------------------------------
+% PARAGRAPH STYLE
+%--------------------------------------------------
+
+\setlength{\parskip}{1em} % Paragraph spacing - determines the space between a paragraph and the preceding text
+\setlength{\parindent}{0em} % Set paragraph indentation length
+
+\usepackage{titlesec}
+\titlespacing{\section}{0em}{3em}{0.4em}
+\titlespacing{\subsubsection}{0em}{1em}{-0.5em}
+
+%--------------------------------------------------
+% FONTS
+%--------------------------------------------------
+
+% Use Helvetica for the full text
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+
+% Use the Adobe Times Roman as the default text font together with math symbols from the Sym­bol, Chancery and Com­puter Modern fonts
+\usepackage{mathptmx}
+
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+\usepackage[utf8]{inputenc} % Required for including letters with accents
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+
+%--------------------------------------------------
+% TABLE OF CONTENTS
+%--------------------------------------------------
+
+\usepackage{tocloft} % control table of contents, figures, etc
+%\newlength{\cftbeforechapskip}
+%\setlength{\cftbeforechapskip}{-1em}
+\usepackage[nottoc,numbib]{tocbibind}   % makes the references section appear in TOC
+
+%--------------------------------------------------
+% TITLE PAGE FORMAT
+%--------------------------------------------------
+
+\usepackage{titling} % control over the typesetting of the \maketitle command
+\renewcommand\maketitlehooka{\vspace{-4em}} % denotes code inserted before title
+\renewcommand\maketitlehookb{\vspace{-2.5em}} % denotes code inserted between title and author
+\renewcommand\maketitlehookc{\vspace{-2.5em}} % denotes code inserted between between author and date
+\renewcommand\maketitlehookd{\vspace{-1cm}} % denotes code inserted after date
+
+\pretitle{\begin{center}\Huge} % makes document title flush left
+\posttitle{\end{center}}
+\preauthor{\begin{flushleft}\Large} % makes author flush left
+\postauthor{\end{flushleft}}
+\predate{\begin{flushright}\large} % makes date title flush right
+\postdate{\end{flushright}}
+
+\title{Caracter iónico y momento dipolar}%\\
+	%\Large{Estructura de la materia}}
+\author{}%Jorge Luis Rodriguez Mendoza
+\date{}
+
+\pagenumbering{gobble}
+
+%--------------------------------------------------
+%--------------------------------------------------
+
+\begin{document}
+
+\maketitle
+
+\input{Contenido.tex}
+
+\end{document}
