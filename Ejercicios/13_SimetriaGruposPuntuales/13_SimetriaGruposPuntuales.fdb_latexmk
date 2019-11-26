@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1573683867 "13_SimetriaGruposPuntuales.tex" "13_SimetriaGruposPuntuales.pdf" "13_SimetriaGruposPuntuales" 1573683872
+["pdflatex"] 1574792563 "13_SimetriaGruposPuntuales.tex" "13_SimetriaGruposPuntuales.pdf" "13_SimetriaGruposPuntuales" 1574792567
   "/etc/texmf/web2c/texmf.cnf" 1555363701 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -121,10 +121,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1488610416 31340 0f53f8665296bf8fe6c697f9505e31d8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1555364129 2044936 0edf5ca64352b50b145b46ea2ee03d92 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1555364159 3869977 2a0f8b415c53b68f77fb367841ed0fa0 ""
-  "13_SimetriaGruposPuntuales.aux" 1573683868 248 210d7c7502124ae0b3f904247f0cdb70 ""
-  "13_SimetriaGruposPuntuales.tex" 1573670126 3667 3468deeabe67744590fbe346ed292040 ""
-  "Contenido.tex" 1573683862 2515 e1b6aff40a32d1cee1136c3ff5f1b0ec ""
+  "13_SimetriaGruposPuntuales.aux" 1574792564 248 210d7c7502124ae0b3f904247f0cdb70 ""
+  "13_SimetriaGruposPuntuales.tex" 1574789578 3667 3468deeabe67744590fbe346ed292040 ""
+  "Contenido.tex" 1574792561 3125 4695414a640373369da9d8b88a050f2a ""
   (generated)
-  "13_SimetriaGruposPuntuales.log"
   "13_SimetriaGruposPuntuales.pdf"
+  "13_SimetriaGruposPuntuales.log"
   "13_SimetriaGruposPuntuales.aux"
